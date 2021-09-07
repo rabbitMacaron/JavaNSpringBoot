@@ -1,4 +1,4 @@
-# :star:Java & SpringBoot로 시작하는 웹 프로그래밍[중급]:star:  
+# Java & SpringBoot로 <br>시작하는 웹 프로그래밍[중급]:pencil2: 
 _K-Digital Credit 과정_
 
 <br>
