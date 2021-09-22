@@ -1,4 +1,4 @@
-package classpart;
+package constructor;
 
 public class StudentTest {
 	// student class 메서드 가져다쓸거임
